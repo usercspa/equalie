@@ -1,0 +1,23 @@
+.row {
+    display: flex;
+    flex-direction: row;
+    width: 200px; 
+    margin-bottom: 1px;
+    justify-content: center;
+    text-align: center;
+}
+.checked{
+    background-color: orange;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.ttl{
+    font-size: x-large;
+    font-weight: 700;
+}
