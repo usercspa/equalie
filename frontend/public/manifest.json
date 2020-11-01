@@ -1,12 +1,12 @@
 {
-  "short_name": "Op",
-  "name": "Optalk",
+  "short_name": "Eq",
+  "name": "Equalie",
   "version": "1.0.0",
   "manifest_version": 2,
   "description": "One stop extension for your next interviews",
   "icons": [
     {
-      "512": "optalk.png"
+      "512": "https://cdn.glitch.com/bd6bfe9c-3f85-4ff2-9897-bbd5141a464a%2Flogo.ico?v=1604192546113"
     }
   ],
   "browser_action": {

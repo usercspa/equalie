@@ -2,7 +2,7 @@ import { Button } from '@material-ui/core'
 import React, {useState} from 'react'
 import SignIn from '../../component/signin/signin'
 import Signup from '../../component/signup/signup'
-import Logo from './images/logo.png'
+import Logo from 'https://cdn.glitch.com/bd6bfe9c-3f85-4ff2-9897-bbd5141a464a%2Fequalie.jpeg?v=1604192174749'
 import "./landing.css"
 
 const Landing = props => {
